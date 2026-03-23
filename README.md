@@ -16,28 +16,15 @@ A machine learning–based patient prioritization system that helps hospitals ma
 
 ## Requirements
 <!--List the requirements of the project as shown below--> 
-*Programming Language: Python
-*ML Libraries: Scikit-learn, TensorFlow, PyTorch
-*OCR & NLP: Tesseract OCR, spaCy
-*Backend Framework: Flask / FastAPI / Django
-*Frontend: React.js, HTML, CSS, JavaScript
-*Database: PostgreSQL / MongoDB
-*Notifications: Twilio (SMS), SMTP (email), Firebase Cloud Messaging
-*Cloud Deployment: AWS EC2, Firebase
-*Internet connection for cloud storage and real-time alerts 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Programming Language: Python
+- ML Libraries: Scikit-learn, TensorFlow, PyTorch
+- OCR & NLP: Tesseract OCR, spaCy
+- Backend Framework: Flask / FastAPI / Django
+- Frontend: React.js, HTML, CSS, JavaScript
+- Database: PostgreSQL / MongoDB
+- Notifications: Twilio (SMS), SMTP (email), Firebase Cloud Messaging
+- Cloud Deployment: AWS EC2, Firebase
+- Internet connection for cloud storage and real-time alerts 
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->

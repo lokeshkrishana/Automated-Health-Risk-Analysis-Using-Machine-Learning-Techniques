@@ -34,15 +34,17 @@ A machine learning–based patient prioritization system that helps hospitals ma
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Load the dataset.
 
 ![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 - Output of the dataset
+<img width="974" height="534" alt="image" src="https://github.com/user-attachments/assets/399db316-7bbb-4f7c-979e-c9a7d6b695c6" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+<img width="1034" height="989" alt="image" src="https://github.com/user-attachments/assets/c1d129e1-7ac8-49df-af91-98927e1c8a71" />
+
+
+
 
 
 ## Results and Impact

@@ -28,8 +28,7 @@ A machine learning–based patient prioritization system that helps hospitals ma
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="898" height="1021" alt="image" src="https://github.com/user-attachments/assets/7a330be2-fc9f-4568-b2ab-9e6427234529" />
 
 
 ## Output

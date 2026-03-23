@@ -36,7 +36,7 @@ A machine learning–based patient prioritization system that helps hospitals ma
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Load the dataset.
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="1034" height="561" alt="image" src="https://github.com/user-attachments/assets/18c4394f-7114-4b58-980c-f04a1b0d35da" />
 
 #### Output2 - Output of the dataset
 <img width="974" height="534" alt="image" src="https://github.com/user-attachments/assets/399db316-7bbb-4f7c-979e-c9a7d6b695c6" />
